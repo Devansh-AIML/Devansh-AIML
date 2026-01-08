@@ -46,8 +46,8 @@
 </p>
 
 <p style="display: flex; justify-content: flex-start; align-items: stretch; gap: 20px;">
-  <img style="height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devansh-AIML&show_icons=true&locale=en&layout=compact" alt="milindsaini" />
-  <img style="height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api?username=Devansh-AIML&show_icons=true&locale=en" alt="milindsaini" />
+  <img style="height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devansh-AIML&show_icons=true&locale=en&layout=compact" alt="Devansh Tiwari" />
+  <img style="height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api?username=Devansh-AIML&show_icons=true&locale=en" alt="Devansh Tiwari" />
 </p>
 
 <div style="display: flex; align-items: flex-start;">
